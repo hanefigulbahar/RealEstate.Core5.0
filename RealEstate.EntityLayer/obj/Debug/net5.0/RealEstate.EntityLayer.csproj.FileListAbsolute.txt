@@ -1,0 +1,15 @@
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\bin\Debug\net5.0\RealEstate.EntityLayer.deps.json
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\bin\Debug\net5.0\RealEstate.EntityLayer.runtimeconfig.json
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\bin\Debug\net5.0\RealEstate.EntityLayer.runtimeconfig.dev.json
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\bin\Debug\net5.0\RealEstate.EntityLayer.dll
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\bin\Debug\net5.0\RealEstate.EntityLayer.pdb
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.AssemblyInfo.cs
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.dll
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\refint\RealEstate.EntityLayer.dll
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.pdb
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\RealEstate.EntityLayer.genruntimeconfig.cache
+C:\Users\hanef\source\repos\RealEstate.PrecentationLayer\RealEstate.EntityLayer\obj\Debug\net5.0\ref\RealEstate.EntityLayer.dll
